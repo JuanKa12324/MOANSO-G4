@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\patri\\desktop\\moansoef-g4\\moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6018E7EC-3E23-49D0-A947-D634E327B43A}|Capa Logica\\Capa Logica.csproj|C:\\Users\\patri\\Desktop\\MoansoEF-G4\\capa logica\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6018E7EC-3E23-49D0-A947-D634E327B43A}|Capa Logica\\Capa Logica.csproj|solutionrelative:capa logica\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08A0DB2-672F-4889-B22F-67998B347DE8}|Capa Entidad\\Capa Entidad.csproj|C:\\Users\\patri\\Desktop\\MoansoEF-G4\\capa entidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08A0DB2-672F-4889-B22F-67998B347DE8}|Capa Entidad\\Capa Entidad.csproj|solutionrelative:capa entidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55279963-E95D-4999-91F7-60AA6D18D0FD}|Capa Datos\\Capa Datos.csproj|C:\\Users\\patri\\Desktop\\MoansoEF-G4\\capa datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55279963-E95D-4999-91F7-60AA6D18D0FD}|Capa Datos\\Capa Datos.csproj|solutionrelative:capa datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\patri\\desktop\\moansoef-g4\\moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\patri\\desktop\\moansoef-g4\\moansoef-g4\\capa presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\capa presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs",
+              "RelativeDocumentMoniker": "MoansoEF-G4\\Form1.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs",
+              "RelativeToolTip": "MoansoEF-G4\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIA0wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:50:28.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Capa Presentacion.csproj",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\MoansoEF-G4\\Capa Presentacion.csproj",
+              "RelativeDocumentMoniker": "MoansoEF-G4\\Capa Presentacion.csproj",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\MoansoEF-G4\\Capa Presentacion.csproj",
+              "RelativeToolTip": "MoansoEF-G4\\Capa Presentacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T01:47:09.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\Capa Logica\\Class1.cs",
+              "RelativeDocumentMoniker": "Capa Logica\\Class1.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\Capa Logica\\Class1.cs",
+              "RelativeToolTip": "Capa Logica\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:44:44.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\Capa Entidad\\Class1.cs",
+              "RelativeDocumentMoniker": "Capa Entidad\\Class1.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\Capa Entidad\\Class1.cs",
+              "RelativeToolTip": "Capa Entidad\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:44:22.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\Capa Datos\\Class1.cs",
+              "RelativeDocumentMoniker": "Capa Datos\\Class1.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\Capa Datos\\Class1.cs",
+              "RelativeToolTip": "Capa Datos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:43:47.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs",
+              "RelativeDocumentMoniker": "MoansoEF-G4\\Form1.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MoansoEF-G4\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:41:29.759Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
