@@ -1,0 +1,11 @@
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Logica\bin\Debug\Capa Logica.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Logica\bin\Debug\Capa Logica.pdb
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Logica\bin\Debug\Capa Datos.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Logica\bin\Debug\Capa Entidad.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Logica\bin\Debug\Capa Datos.pdb
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Logica\bin\Debug\Capa Entidad.pdb
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Logica\obj\Debug\Capa Logica.csproj.AssemblyReference.cache
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Logica\obj\Debug\Capa Logica.csproj.CoreCompileInputs.cache
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Logica\obj\Debug\Capa Log.4D99B5F3.Up2Date
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Logica\obj\Debug\Capa Logica.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Logica\obj\Debug\Capa Logica.pdb

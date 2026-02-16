@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Capa Datos/Capa Datos.csproj" Id="55279963-e95d-4999-91f7-60aa6d18d0fd" />
+  <Project Path="Capa Entidad/Capa Entidad.csproj" Id="e08a0db2-672f-4889-b22f-67998b347de8" />
+  <Project Path="Capa Logica/Capa Logica.csproj" Id="6018e7ec-3e23-49d0-a947-d634e327b43a" />
+  <Project Path="MoansoEF-G4/Capa Presentacion.csproj" />
+</Solution>

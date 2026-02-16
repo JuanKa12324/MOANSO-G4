@@ -1,0 +1,70 @@
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Capa Presentacion.exe
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Capa Presentacion.deps.json
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Capa Presentacion.runtimeconfig.json
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Capa Presentacion.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Capa Presentacion.pdb
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Capa Datos.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Capa Entidad.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Capa Logica.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Capa Entidad.pdb
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Capa Logica.pdb
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Capa Datos.pdb
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\MoansoEF_G4.Form1.resources
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.csproj.GenerateResource.cache
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.AssemblyInfoInputs.cache
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.AssemblyInfo.cs
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Pre.6EE772B1.Up2Date
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\refint\Capa Presentacion.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.pdb
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.genruntimeconfig.cache
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\ref\Capa Presentacion.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\System.ClientModel.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\System.Memory.Data.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll

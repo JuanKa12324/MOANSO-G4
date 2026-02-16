@@ -1,0 +1,9 @@
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Datos\bin\Debug\Capa Entidad.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Datos\bin\Debug\Capa Entidad.pdb
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Datos\obj\Debug\Capa Datos.csproj.AssemblyReference.cache
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Datos\obj\Debug\Capa Datos.csproj.CoreCompileInputs.cache
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Datos\obj\Debug\Capa Datos.csproj.Up2Date
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\Capa Datos\obj\Debug\Capa Datos.pdb
