@@ -6,6 +6,7 @@
 
 /* Drop Foreign Key Constraints */
 
+
 IF EXISTS (SELECT 1 FROM dbo.sysobjects WHERE id = object_id(N'[FK_Equipo_Area]') AND OBJECTPROPERTY(id, N'IsForeignKey') = 1) 
 ALTER TABLE [Equipo] DROP CONSTRAINT [FK_Equipo_Area]
 GO
@@ -91,7 +92,7 @@ GO
 
 CREATE TABLE [Mantenimiento]
 (
-	[MantenimientoID] int NOT NULL,
+	[MantenimientoID] int NULL,
 	[EquipoID] int NULL,
 	[EstadoID] int NOT NULL,
 	[PrioridadID] int NOT NULL,
@@ -195,4 +196,33 @@ GO
 
 ALTER TABLE [Recurso] ADD CONSTRAINT [FK_Recurso_Mantenimiento]
 	FOREIGN KEY ([MantenimientoID]) REFERENCES [Mantenimiento] ([MantenimientoID]) ON DELETE No Action ON UPDATE No Action
+GO
+
+CREATE PROCEDURE [dbo].[spInsertaMantenimiento] 
+(
+	@EquipoID integer,
+	@EstadoID integer,
+	@PrioridadID integer,
+	@TipoMantenimientoID integer,
+	@TecnicoID integer
+)
+AS
+BEGIN
+    INSERT INTO Mantenimiento(EquipoID,EstadoID,PrioridadID,TipoMantenimientoID,TecnicoID) 
+    VALUES ( 
+	@EquipoID,@EstadoID,@PrioridadID,@TipoMantenimientoID,@TecnicoID)
+END
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROCEDURE [dbo].[spListaMantenimiento]
+as  
+begin
+   select * from Mantenimiento
+end
+GO
+USE [master]
+GO
+ALTER DATABASE [MANTENIMIENTODB] SET  READ_WRITE 
 GO
