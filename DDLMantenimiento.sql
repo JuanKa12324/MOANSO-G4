@@ -198,8 +198,9 @@ ALTER TABLE [Recurso] ADD CONSTRAINT [FK_Recurso_Mantenimiento]
 	FOREIGN KEY ([MantenimientoID]) REFERENCES [Mantenimiento] ([MantenimientoID]) ON DELETE No Action ON UPDATE No Action
 GO
 
-CREATE PROCEDURE [dbo].[spInsertaMantenimiento] 
+ALTER PROCEDURE [dbo].[spInsertaMantenimiento] 
 (
+	@MantenimientoID integer,
 	@EquipoID integer,
 	@EstadoID integer,
 	@PrioridadID integer,
@@ -208,9 +209,9 @@ CREATE PROCEDURE [dbo].[spInsertaMantenimiento]
 )
 AS
 BEGIN
-    INSERT INTO Mantenimiento(EquipoID,EstadoID,PrioridadID,TipoMantenimientoID,TecnicoID) 
+    INSERT INTO Mantenimiento(MantenimientoID,EquipoID,EstadoID,PrioridadID,TipoMantenimientoID,TecnicoID) 
     VALUES ( 
-	@EquipoID,@EstadoID,@PrioridadID,@TipoMantenimientoID,@TecnicoID)
+	@MantenimientoID,@EquipoID,@EstadoID,@PrioridadID,@TipoMantenimientoID,@TecnicoID)
 END
 SET ANSI_NULLS ON
 GO
@@ -226,3 +227,20 @@ USE [master]
 GO
 ALTER DATABASE [MANTENIMIENTODB] SET  READ_WRITE 
 GO
+
+INSERT INTO Equipo (EquipoID)
+VALUES (2);
+
+INSERT INTO Estado (EstadoID)
+VALUES (1);
+
+INSERT INTO Area (AreaID)
+VALUES (1);
+
+INSERT INTO Tecnico (TecnicoID)
+VALUES (1);
+INSERT INTO Tipomantenimiento(TipomantenimientoID)
+VALUES (1);
+
+INSERT INTO Prioridad (PrioridadID)
+VALUES (1);
