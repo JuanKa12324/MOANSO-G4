@@ -28,46 +28,46 @@
         /// </summary>
         private void InitializeComponent()
         {
-            dataGridView1 = new DataGridView();
-            button1 = new Button();
-            button2 = new Button();
-            textBox1 = new TextBox();
+            DgvRubro = new DataGridView();
+            btnEditarMRubro = new Button();
+            btnEliminarMRubro = new Button();
+            txtAgregarMRubro = new TextBox();
             label1 = new Label();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)DgvRubro).BeginInit();
             SuspendLayout();
             // 
-            // dataGridView1
+            // DgvRubro
             // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(12, 12);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(310, 432);
-            dataGridView1.TabIndex = 0;
+            DgvRubro.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            DgvRubro.Location = new Point(12, 12);
+            DgvRubro.Name = "DgvRubro";
+            DgvRubro.Size = new Size(310, 418);
+            DgvRubro.TabIndex = 0;
             // 
-            // button1
+            // btnEditarMRubro
             // 
-            button1.Location = new Point(423, 178);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 1;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            btnEditarMRubro.Location = new Point(423, 178);
+            btnEditarMRubro.Name = "btnEditarMRubro";
+            btnEditarMRubro.Size = new Size(75, 23);
+            btnEditarMRubro.TabIndex = 1;
+            btnEditarMRubro.Text = "Editar";
+            btnEditarMRubro.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // btnEliminarMRubro
             // 
-            button2.Location = new Point(423, 276);
-            button2.Name = "button2";
-            button2.Size = new Size(75, 23);
-            button2.TabIndex = 2;
-            button2.Text = "button2";
-            button2.UseVisualStyleBackColor = true;
+            btnEliminarMRubro.Location = new Point(423, 276);
+            btnEliminarMRubro.Name = "btnEliminarMRubro";
+            btnEliminarMRubro.Size = new Size(75, 23);
+            btnEliminarMRubro.TabIndex = 2;
+            btnEliminarMRubro.Text = "Eliminar";
+            btnEliminarMRubro.UseVisualStyleBackColor = true;
             // 
-            // textBox1
+            // txtAgregarMRubro
             // 
-            textBox1.Location = new Point(364, 87);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(179, 23);
-            textBox1.TabIndex = 3;
+            txtAgregarMRubro.Location = new Point(364, 87);
+            txtAgregarMRubro.Name = "txtAgregarMRubro";
+            txtAgregarMRubro.Size = new Size(179, 23);
+            txtAgregarMRubro.TabIndex = 3;
             // 
             // label1
             // 
@@ -84,23 +84,23 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(581, 450);
             Controls.Add(label1);
-            Controls.Add(textBox1);
-            Controls.Add(button2);
-            Controls.Add(button1);
-            Controls.Add(dataGridView1);
+            Controls.Add(txtAgregarMRubro);
+            Controls.Add(btnEliminarMRubro);
+            Controls.Add(btnEditarMRubro);
+            Controls.Add(DgvRubro);
             Name = "MantenedorRubro";
             Text = "MantenedorRubro";
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)DgvRubro).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private DataGridView dataGridView1;
-        private Button button1;
-        private Button button2;
-        private TextBox textBox1;
+        private DataGridView DgvRubro;
+        private Button btnEditarMRubro;
+        private Button btnEliminarMRubro;
+        private TextBox txtAgregarMRubro;
         private Label label1;
     }
 }

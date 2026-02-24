@@ -28,23 +28,23 @@
         /// </summary>
         private void InitializeComponent()
         {
-            dataGridView1 = new DataGridView();
+            DgvMovimientoInventario = new DataGridView();
             label1 = new Label();
             label2 = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
+            txtIDRecurso = new TextBox();
+            txtCantidadIngreso = new TextBox();
+            txtTipoRecurso = new TextBox();
             label3 = new Label();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)DgvMovimientoInventario).BeginInit();
             SuspendLayout();
             // 
-            // dataGridView1
+            // DgvMovimientoInventario
             // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(12, 12);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(512, 276);
-            dataGridView1.TabIndex = 0;
+            DgvMovimientoInventario.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            DgvMovimientoInventario.Location = new Point(12, 12);
+            DgvMovimientoInventario.Name = "DgvMovimientoInventario";
+            DgvMovimientoInventario.Size = new Size(512, 276);
+            DgvMovimientoInventario.TabIndex = 0;
             // 
             // label1
             // 
@@ -64,26 +64,26 @@
             label2.TabIndex = 2;
             label2.Text = "Cantidad de ingreso:";
             // 
-            // textBox1
+            // txtIDRecurso
             // 
-            textBox1.Location = new Point(160, 320);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(222, 23);
-            textBox1.TabIndex = 3;
+            txtIDRecurso.Location = new Point(160, 320);
+            txtIDRecurso.Name = "txtIDRecurso";
+            txtIDRecurso.Size = new Size(222, 23);
+            txtIDRecurso.TabIndex = 3;
             // 
-            // textBox2
+            // txtCantidadIngreso
             // 
-            textBox2.Location = new Point(160, 393);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(222, 23);
-            textBox2.TabIndex = 4;
+            txtCantidadIngreso.Location = new Point(160, 393);
+            txtCantidadIngreso.Name = "txtCantidadIngreso";
+            txtCantidadIngreso.Size = new Size(222, 23);
+            txtCantidadIngreso.TabIndex = 4;
             // 
-            // textBox3
+            // txtTipoRecurso
             // 
-            textBox3.Location = new Point(160, 356);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(222, 23);
-            textBox3.TabIndex = 5;
+            txtTipoRecurso.Location = new Point(160, 356);
+            txtTipoRecurso.Name = "txtTipoRecurso";
+            txtTipoRecurso.Size = new Size(222, 23);
+            txtTipoRecurso.TabIndex = 5;
             // 
             // label3
             // 
@@ -100,27 +100,27 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(label3);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(txtTipoRecurso);
+            Controls.Add(txtCantidadIngreso);
+            Controls.Add(txtIDRecurso);
             Controls.Add(label2);
             Controls.Add(label1);
-            Controls.Add(dataGridView1);
+            Controls.Add(DgvMovimientoInventario);
             Name = "MovimientoInventario";
             Text = "MovimientoInventario";
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)DgvMovimientoInventario).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private DataGridView dataGridView1;
+        private DataGridView DgvMovimientoInventario;
         private Label label1;
         private Label label2;
-        private TextBox textBox1;
-        private TextBox textBox2;
-        private TextBox textBox3;
+        private TextBox txtIDRecurso;
+        private TextBox txtCantidadIngreso;
+        private TextBox txtTipoRecurso;
         private Label label3;
     }
 }

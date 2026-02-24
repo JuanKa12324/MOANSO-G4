@@ -14,7 +14,7 @@ namespace MoansoEF_G4
         }
         public void ListaMantenimiento()
         {
-            dgvMantenimiento.DataSource = logMantenimiento.Instancia.ListaMantenimientos();
+            dgvPlanMantenimiento.DataSource = logMantenimiento.Instancia.ListaMantenimientos();
 
         }
         private void button1_Click(object sender, EventArgs e)

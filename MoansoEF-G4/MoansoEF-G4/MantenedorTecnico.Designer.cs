@@ -28,38 +28,38 @@
         /// </summary>
         private void InitializeComponent()
         {
-            dataGridView1 = new DataGridView();
+            DgvTecnico = new DataGridView();
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
             label4 = new Label();
             label5 = new Label();
             label6 = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
-            textBox4 = new TextBox();
-            comboBox1 = new ComboBox();
-            comboBox2 = new ComboBox();
-            checkBox1 = new CheckBox();
-            checkBox2 = new CheckBox();
-            checkBox3 = new CheckBox();
-            checkBox4 = new CheckBox();
-            checkBox5 = new CheckBox();
-            checkBox6 = new CheckBox();
+            txtDniTecnico = new TextBox();
+            txtNombreTecnico = new TextBox();
+            txtCorreoTecnico = new TextBox();
+            txtTelefonoTecnico = new TextBox();
+            CbRubro = new ComboBox();
+            CbCiudad = new ComboBox();
+            checkLunes = new CheckBox();
+            checkMartes = new CheckBox();
+            checkMiercoles = new CheckBox();
+            checkJueves = new CheckBox();
+            checkViernes = new CheckBox();
+            checkSabado = new CheckBox();
             label7 = new Label();
-            dateTimePicker1 = new DateTimePicker();
+            dtpRegistroTecnico = new DateTimePicker();
             label8 = new Label();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)DgvTecnico).BeginInit();
             SuspendLayout();
             // 
-            // dataGridView1
+            // DgvTecnico
             // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(12, 12);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(643, 243);
-            dataGridView1.TabIndex = 0;
+            DgvTecnico.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            DgvTecnico.Location = new Point(12, 12);
+            DgvTecnico.Name = "DgvTecnico";
+            DgvTecnico.Size = new Size(643, 243);
+            DgvTecnico.TabIndex = 0;
             // 
             // label1
             // 
@@ -115,109 +115,109 @@
             label6.TabIndex = 6;
             label6.Text = "Ciudad:";
             // 
-            // textBox1
+            // txtDniTecnico
             // 
-            textBox1.Location = new Point(81, 283);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(275, 23);
-            textBox1.TabIndex = 7;
+            txtDniTecnico.Location = new Point(81, 283);
+            txtDniTecnico.Name = "txtDniTecnico";
+            txtDniTecnico.Size = new Size(275, 23);
+            txtDniTecnico.TabIndex = 7;
             // 
-            // textBox2
+            // txtNombreTecnico
             // 
-            textBox2.Location = new Point(78, 328);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(278, 23);
-            textBox2.TabIndex = 8;
+            txtNombreTecnico.Location = new Point(78, 328);
+            txtNombreTecnico.Name = "txtNombreTecnico";
+            txtNombreTecnico.Size = new Size(278, 23);
+            txtNombreTecnico.TabIndex = 8;
             // 
-            // textBox3
+            // txtCorreoTecnico
             // 
-            textBox3.Location = new Point(78, 379);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(278, 23);
-            textBox3.TabIndex = 9;
+            txtCorreoTecnico.Location = new Point(78, 379);
+            txtCorreoTecnico.Name = "txtCorreoTecnico";
+            txtCorreoTecnico.Size = new Size(278, 23);
+            txtCorreoTecnico.TabIndex = 9;
             // 
-            // textBox4
+            // txtTelefonoTecnico
             // 
-            textBox4.Location = new Point(78, 422);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(278, 23);
-            textBox4.TabIndex = 10;
+            txtTelefonoTecnico.Location = new Point(78, 422);
+            txtTelefonoTecnico.Name = "txtTelefonoTecnico";
+            txtTelefonoTecnico.Size = new Size(278, 23);
+            txtTelefonoTecnico.TabIndex = 10;
             // 
-            // comboBox1
+            // CbRubro
             // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(81, 465);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(275, 23);
-            comboBox1.TabIndex = 11;
+            CbRubro.FormattingEnabled = true;
+            CbRubro.Location = new Point(81, 465);
+            CbRubro.Name = "CbRubro";
+            CbRubro.Size = new Size(275, 23);
+            CbRubro.TabIndex = 11;
             // 
-            // comboBox2
+            // CbCiudad
             // 
-            comboBox2.FormattingEnabled = true;
-            comboBox2.Location = new Point(81, 510);
-            comboBox2.Name = "comboBox2";
-            comboBox2.Size = new Size(275, 23);
-            comboBox2.TabIndex = 12;
+            CbCiudad.FormattingEnabled = true;
+            CbCiudad.Location = new Point(81, 510);
+            CbCiudad.Name = "CbCiudad";
+            CbCiudad.Size = new Size(275, 23);
+            CbCiudad.TabIndex = 12;
             // 
-            // checkBox1
+            // checkLunes
             // 
-            checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(446, 323);
-            checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(57, 19);
-            checkBox1.TabIndex = 13;
-            checkBox1.Text = "Lunes";
-            checkBox1.UseVisualStyleBackColor = true;
+            checkLunes.AutoSize = true;
+            checkLunes.Location = new Point(446, 323);
+            checkLunes.Name = "checkLunes";
+            checkLunes.Size = new Size(57, 19);
+            checkLunes.TabIndex = 13;
+            checkLunes.Text = "Lunes";
+            checkLunes.UseVisualStyleBackColor = true;
             // 
-            // checkBox2
+            // checkMartes
             // 
-            checkBox2.AutoSize = true;
-            checkBox2.Location = new Point(446, 348);
-            checkBox2.Name = "checkBox2";
-            checkBox2.Size = new Size(62, 19);
-            checkBox2.TabIndex = 14;
-            checkBox2.Text = "Martes";
-            checkBox2.UseVisualStyleBackColor = true;
+            checkMartes.AutoSize = true;
+            checkMartes.Location = new Point(446, 348);
+            checkMartes.Name = "checkMartes";
+            checkMartes.Size = new Size(62, 19);
+            checkMartes.TabIndex = 14;
+            checkMartes.Text = "Martes";
+            checkMartes.UseVisualStyleBackColor = true;
             // 
-            // checkBox3
+            // checkMiercoles
             // 
-            checkBox3.AutoSize = true;
-            checkBox3.Location = new Point(446, 373);
-            checkBox3.Name = "checkBox3";
-            checkBox3.Size = new Size(77, 19);
-            checkBox3.TabIndex = 15;
-            checkBox3.Text = "Miercoles";
-            checkBox3.UseVisualStyleBackColor = true;
+            checkMiercoles.AutoSize = true;
+            checkMiercoles.Location = new Point(446, 373);
+            checkMiercoles.Name = "checkMiercoles";
+            checkMiercoles.Size = new Size(77, 19);
+            checkMiercoles.TabIndex = 15;
+            checkMiercoles.Text = "Miercoles";
+            checkMiercoles.UseVisualStyleBackColor = true;
             // 
-            // checkBox4
+            // checkJueves
             // 
-            checkBox4.AutoSize = true;
-            checkBox4.Location = new Point(446, 398);
-            checkBox4.Name = "checkBox4";
-            checkBox4.Size = new Size(60, 19);
-            checkBox4.TabIndex = 16;
-            checkBox4.Text = "Jueves";
-            checkBox4.UseVisualStyleBackColor = true;
+            checkJueves.AutoSize = true;
+            checkJueves.Location = new Point(446, 398);
+            checkJueves.Name = "checkJueves";
+            checkJueves.Size = new Size(60, 19);
+            checkJueves.TabIndex = 16;
+            checkJueves.Text = "Jueves";
+            checkJueves.UseVisualStyleBackColor = true;
             // 
-            // checkBox5
+            // checkViernes
             // 
-            checkBox5.AutoSize = true;
-            checkBox5.Location = new Point(446, 423);
-            checkBox5.Name = "checkBox5";
-            checkBox5.Size = new Size(64, 19);
-            checkBox5.TabIndex = 17;
-            checkBox5.Text = "Viernes";
-            checkBox5.UseVisualStyleBackColor = true;
+            checkViernes.AutoSize = true;
+            checkViernes.Location = new Point(446, 423);
+            checkViernes.Name = "checkViernes";
+            checkViernes.Size = new Size(64, 19);
+            checkViernes.TabIndex = 17;
+            checkViernes.Text = "Viernes";
+            checkViernes.UseVisualStyleBackColor = true;
             // 
-            // checkBox6
+            // checkSabado
             // 
-            checkBox6.AutoSize = true;
-            checkBox6.Location = new Point(446, 447);
-            checkBox6.Name = "checkBox6";
-            checkBox6.Size = new Size(65, 19);
-            checkBox6.TabIndex = 18;
-            checkBox6.Text = "Sábado";
-            checkBox6.UseVisualStyleBackColor = true;
+            checkSabado.AutoSize = true;
+            checkSabado.Location = new Point(446, 447);
+            checkSabado.Name = "checkSabado";
+            checkSabado.Size = new Size(65, 19);
+            checkSabado.TabIndex = 18;
+            checkSabado.Text = "Sábado";
+            checkSabado.UseVisualStyleBackColor = true;
             // 
             // label7
             // 
@@ -228,12 +228,12 @@
             label7.TabIndex = 19;
             label7.Text = "Días de trabajo:";
             // 
-            // dateTimePicker1
+            // dtpRegistroTecnico
             // 
-            dateTimePicker1.Location = new Point(446, 525);
-            dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new Size(232, 23);
-            dateTimePicker1.TabIndex = 21;
+            dtpRegistroTecnico.Location = new Point(446, 525);
+            dtpRegistroTecnico.Name = "dtpRegistroTecnico";
+            dtpRegistroTecnico.Size = new Size(232, 23);
+            dtpRegistroTecnico.TabIndex = 21;
             // 
             // label8
             // 
@@ -249,59 +249,59 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 560);
-            Controls.Add(dateTimePicker1);
+            Controls.Add(dtpRegistroTecnico);
             Controls.Add(label8);
             Controls.Add(label7);
-            Controls.Add(checkBox6);
-            Controls.Add(checkBox5);
-            Controls.Add(checkBox4);
-            Controls.Add(checkBox3);
-            Controls.Add(checkBox2);
-            Controls.Add(checkBox1);
-            Controls.Add(comboBox2);
-            Controls.Add(comboBox1);
-            Controls.Add(textBox4);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(checkSabado);
+            Controls.Add(checkViernes);
+            Controls.Add(checkJueves);
+            Controls.Add(checkMiercoles);
+            Controls.Add(checkMartes);
+            Controls.Add(checkLunes);
+            Controls.Add(CbCiudad);
+            Controls.Add(CbRubro);
+            Controls.Add(txtTelefonoTecnico);
+            Controls.Add(txtCorreoTecnico);
+            Controls.Add(txtNombreTecnico);
+            Controls.Add(txtDniTecnico);
             Controls.Add(label6);
             Controls.Add(label5);
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Controls.Add(dataGridView1);
+            Controls.Add(DgvTecnico);
             Name = "MantenedorTecnico";
             Text = "MantenedorTecnico";
             Load += MantenedorTecnico_Load;
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)DgvTecnico).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private DataGridView dataGridView1;
+        private DataGridView DgvTecnico;
         private Label label1;
         private Label label2;
         private Label label3;
         private Label label4;
         private Label label5;
         private Label label6;
-        private TextBox textBox1;
-        private TextBox textBox2;
-        private TextBox textBox3;
-        private TextBox textBox4;
-        private ComboBox comboBox1;
-        private ComboBox comboBox2;
-        private CheckBox checkBox1;
-        private CheckBox checkBox2;
-        private CheckBox checkBox3;
-        private CheckBox checkBox4;
-        private CheckBox checkBox5;
-        private CheckBox checkBox6;
+        private TextBox txtDniTecnico;
+        private TextBox txtNombreTecnico;
+        private TextBox txtCorreoTecnico;
+        private TextBox txtTelefonoTecnico;
+        private ComboBox CbRubro;
+        private ComboBox CbCiudad;
+        private CheckBox checkLunes;
+        private CheckBox checkMartes;
+        private CheckBox checkMiercoles;
+        private CheckBox checkJueves;
+        private CheckBox checkViernes;
+        private CheckBox checkSabado;
         private Label label7;
-        private DateTimePicker dateTimePicker1;
+        private DateTimePicker dtpRegistroTecnico;
         private Label label8;
     }
 }
