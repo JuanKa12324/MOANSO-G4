@@ -68,3 +68,14 @@ C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net
 C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
 C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
 C:\Users\juanl\source\repos\REPO\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\MoansoEF_G4.Form1.resources
+C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.sourcelink.json
+C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.dll
+C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\refint\Capa Presentacion.dll
+C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\MoansoEF-G4\obj\Debug\net10.0-windows\Capa Presentacion.pdb
