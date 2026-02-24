@@ -3,12 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\administrator\\source\\repos\\moanso-g4\\moansoef-g4\\moansoef-g4\\realiza registromantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\realiza registromantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6018E7EC-3E23-49D0-A947-D634E327B43A}|Capa Logica\\Capa Logica.csproj|C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\capa logica\\logmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6018E7EC-3E23-49D0-A947-D634E327B43A}|Capa Logica\\Capa Logica.csproj|solutionrelative:capa logica\\logmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\moansoef-g4\\mantenedortipodeequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\mantenedortipodeequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\administrator\\source\\repos\\moanso-g4\\moansoef-g4\\moansoef-g4\\capa presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\capa presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Capa Logica||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Capa Datos||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\administrator\\source\\repos\\moanso-g4\\moansoef-g4\\moansoef-g4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\administrator\\source\\repos\\moanso-g4\\moansoef-g4\\moansoef-g4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\moansoef-g4\\mantenedortecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -19,20 +37,20 @@
       "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\mantenedorrubro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\administrator\\source\\repos\\moanso-g4\\moansoef-g4\\moansoef-g4\\movimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\movimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\moansoef-g4\\mantenedorequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\mantenedorequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\administrator\\source\\repos\\moanso-g4\\moansoef-g4\\moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\moansoef-g4\\movimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\movimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\administrator\\source\\repos\\moanso-g4\\moansoef-g4\\moansoef-g4\\capa presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\capa presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\moansoef-g4\\realiza registromantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\realiza registromantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\moansoef-g4\\mantenedortipodeequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\mantenedortipodeequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\administrator\\source\\repos\\moanso-g4\\moansoef-g4\\moansoef-g4\\mantenedortecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,24 +61,12 @@
       "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\administrator\\source\\repos\\moanso-g4\\moansoef-g4\\moansoef-g4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55279963-E95D-4999-91F7-60AA6D18D0FD}|Capa Datos\\Capa Datos.csproj|C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\capa datos\\datmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55279963-E95D-4999-91F7-60AA6D18D0FD}|Capa Datos\\Capa Datos.csproj|solutionrelative:capa datos\\datmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E08A0DB2-672F-4889-B22F-67998B347DE8}|Capa Entidad\\Capa Entidad.csproj|C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\capa entidad\\entmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E08A0DB2-672F-4889-B22F-67998B347DE8}|Capa Entidad\\Capa Entidad.csproj|solutionrelative:capa entidad\\entmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6018E7EC-3E23-49D0-A947-D634E327B43A}|Capa Logica\\Capa Logica.csproj|C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\capa logica\\logmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6018E7EC-3E23-49D0-A947-D634E327B43A}|Capa Logica\\Capa Logica.csproj|solutionrelative:capa logica\\logmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|c:\\users\\administrator\\source\\repos\\moanso-g4\\moansoef-g4\\moansoef-g4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83D33184-34E0-75D3-CA09-22943DBCC2E7}|MoansoEF-G4\\Capa Presentacion.csproj|solutionrelative:moansoef-g4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55279963-E95D-4999-91F7-60AA6D18D0FD}|Capa Datos\\Capa Datos.csproj|C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\capa datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,11 +84,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\Capa Datos\\Conexion.cs",
               "RelativeDocumentMoniker": "Capa Datos\\Conexion.cs",
@@ -96,15 +102,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Form1.cs [Dise\u00F1o]",
+              "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs",
               "RelativeDocumentMoniker": "MoansoEF-G4\\Form1.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MoansoEF-G4\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs [Design]",
+              "RelativeToolTip": "MoansoEF-G4\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T01:41:29.759Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -128,105 +133,105 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Capa Logica",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\Capa Logica\\Capa Logica.csproj",
+              "RelativeDocumentMoniker": "Capa Logica\\Capa Logica.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\Capa Logica\\Capa Logica.csproj",
+              "RelativeToolTip": "Capa Logica\\Capa Logica.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-24T20:19:49.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Capa Datos",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\Capa Datos\\Capa Datos.csproj",
+              "RelativeDocumentMoniker": "Capa Datos\\Capa Datos.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\Capa Datos\\Capa Datos.csproj",
+              "RelativeToolTip": "Capa Datos\\Capa Datos.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-24T20:18:39.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MantenedorRubro.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorRubro.cs",
               "RelativeDocumentMoniker": "MoansoEF-G4\\MantenedorRubro.cs",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorRubro.cs [Dise\u00F1o]",
               "RelativeToolTip": "MoansoEF-G4\\MantenedorRubro.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T08:08:49.166Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-02-24T08:08:49.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MovimientoInventario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MovimientoInventario.cs",
-              "RelativeDocumentMoniker": "MoansoEF-G4\\MovimientoInventario.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MovimientoInventario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MoansoEF-G4\\MovimientoInventario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T17:31:12.21Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "MantenedorTecnico.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorTecnico.cs",
               "RelativeDocumentMoniker": "MoansoEF-G4\\MantenedorTecnico.cs",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorTecnico.cs [Dise\u00F1o]",
               "RelativeToolTip": "MoansoEF-G4\\MantenedorTecnico.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T07:20:19.718Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-02-24T07:20:19.718Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MantenedorTipoDeEquipos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorTipoDeEquipos.cs",
-              "RelativeDocumentMoniker": "MoansoEF-G4\\MantenedorTipoDeEquipos.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorTipoDeEquipos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MoansoEF-G4\\MantenedorTipoDeEquipos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T05:40:22.188Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Realiza RegistroMantenimiento.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Realiza RegistroMantenimiento.cs",
-              "RelativeDocumentMoniker": "MoansoEF-G4\\Realiza RegistroMantenimiento.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Realiza RegistroMantenimiento.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MoansoEF-G4\\Realiza RegistroMantenimiento.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T16:05:07.014Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MantenedorEquipo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorEquipo.cs",
-              "RelativeDocumentMoniker": "MoansoEF-G4\\MantenedorEquipo.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorEquipo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MoansoEF-G4\\MantenedorEquipo.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T03:39:39.685Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Capa Presentacion.csproj",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Capa Presentacion.csproj",
               "RelativeDocumentMoniker": "MoansoEF-G4\\Capa Presentacion.csproj",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Capa Presentacion.csproj",
               "RelativeToolTip": "MoansoEF-G4\\Capa Presentacion.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-02-16T01:47:09.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MantenedorTecnico.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorTecnico.cs",
-              "RelativeDocumentMoniker": "MoansoEF-G4\\MantenedorTecnico.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorTecnico.cs",
-              "RelativeToolTip": "MoansoEF-G4\\MantenedorTecnico.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "logMantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\Capa Logica\\logMantenimiento.cs",
+              "RelativeDocumentMoniker": "Capa Logica\\logMantenimiento.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\Capa Logica\\logMantenimiento.cs",
+              "RelativeToolTip": "Capa Logica\\logMantenimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T08:01:58.902Z",
+              "WhenOpened": "2026-02-16T08:08:22.032Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
+              "Title": "MantenedorEquipo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorEquipo.cs",
+              "RelativeDocumentMoniker": "MoansoEF-G4\\MantenedorEquipo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorEquipo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MoansoEF-G4\\MantenedorEquipo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T03:39:39.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Realiza RegistroMantenimiento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Realiza RegistroMantenimiento.cs",
+              "RelativeDocumentMoniker": "MoansoEF-G4\\Realiza RegistroMantenimiento.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Realiza RegistroMantenimiento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MoansoEF-G4\\Realiza RegistroMantenimiento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T16:05:07.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Program.cs",
               "RelativeDocumentMoniker": "MoansoEF-G4\\Program.cs",
@@ -238,19 +243,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "logMantenimiento.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\Capa Logica\\logMantenimiento.cs",
-              "RelativeDocumentMoniker": "Capa Logica\\logMantenimiento.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\Capa Logica\\logMantenimiento.cs",
-              "RelativeToolTip": "Capa Logica\\logMantenimiento.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MoansoEF-G4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Form1.Designer.cs",
+              "RelativeToolTip": "MoansoEF-G4\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T08:08:22.032Z"
+              "WhenOpened": "2026-02-16T08:14:05.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovimientoInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MovimientoInventario.cs",
+              "RelativeDocumentMoniker": "MoansoEF-G4\\MovimientoInventario.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MovimientoInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MoansoEF-G4\\MovimientoInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:31:12.21Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "MantenedorTipoDeEquipos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorTipoDeEquipos.cs",
+              "RelativeDocumentMoniker": "MoansoEF-G4\\MantenedorTipoDeEquipos.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorTipoDeEquipos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MoansoEF-G4\\MantenedorTipoDeEquipos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:40:22.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MantenedorTecnico.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorTecnico.cs",
+              "RelativeDocumentMoniker": "MoansoEF-G4\\MantenedorTecnico.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\MantenedorTecnico.cs",
+              "RelativeToolTip": "MoansoEF-G4\\MantenedorTecnico.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:01:58.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "entMantenimiento.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\Capa Entidad\\entMantenimiento.cs",
               "RelativeDocumentMoniker": "Capa Entidad\\entMantenimiento.cs",
@@ -262,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "datMantenimiento.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\Capa Datos\\datMantenimiento.cs",
               "RelativeDocumentMoniker": "Capa Datos\\datMantenimiento.cs",
@@ -274,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Form1.cs",
               "RelativeDocumentMoniker": "MoansoEF-G4\\Form1.cs",
@@ -282,33 +321,18 @@
               "RelativeToolTip": "MoansoEF-G4\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T01:50:28.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T01:50:28.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "MoansoEF-G4\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Form1.Designer.cs",
-              "RelativeToolTip": "MoansoEF-G4\\Form1.Designer.cs",
-              "ViewState": "AgIAAGQBAAAAAAAAAAAiwBYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T08:14:05.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Form1.resx",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Form1.resx",
               "RelativeDocumentMoniker": "MoansoEF-G4\\Form1.resx",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MOANSO-G4\\MoansoEF-G4\\MoansoEF-G4\\Form1.resx",
               "RelativeToolTip": "MoansoEF-G4\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-02-16T08:16:05.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T08:16:05.46Z"
             }
           ]
         },
