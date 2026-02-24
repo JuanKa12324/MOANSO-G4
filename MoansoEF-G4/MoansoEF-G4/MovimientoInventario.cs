@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace MoansoEF_G4
 {
-    public partial class MantenedorArea : Form
+    public partial class MovimientoInventario : Form
     {
-        public MantenedorArea()
+        public MovimientoInventario()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace MoansoEF_G4
 {
-    partial class MantenedorArea
+    partial class MovimientoInventario
     {
         /// <summary>
         /// Required designer variable.
@@ -30,10 +30,11 @@
         {
             dataGridView1 = new DataGridView();
             label1 = new Label();
-            button1 = new Button();
-            button2 = new Button();
-            button3 = new Button();
+            label2 = new Label();
             textBox1 = new TextBox();
+            textBox2 = new TextBox();
+            textBox3 = new TextBox();
+            label3 = new Label();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -42,65 +43,71 @@
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Location = new Point(12, 12);
             dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(367, 319);
+            dataGridView1.Size = new Size(512, 276);
             dataGridView1.TabIndex = 0;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(12, 356);
+            label1.Location = new Point(88, 323);
             label1.Name = "label1";
-            label1.Size = new Size(123, 15);
+            label1.Size = new Size(66, 15);
             label1.TabIndex = 1;
-            label1.Text = "Área correspondiente:";
+            label1.Text = "ID Recurso:";
             // 
-            // button1
+            // label2
             // 
-            button1.Location = new Point(166, 400);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 2;
-            button1.Text = "Agregar";
-            button1.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            button2.Location = new Point(426, 97);
-            button2.Name = "button2";
-            button2.Size = new Size(75, 23);
-            button2.TabIndex = 3;
-            button2.Text = "Nuevo";
-            button2.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            button3.Location = new Point(426, 168);
-            button3.Name = "button3";
-            button3.Size = new Size(75, 23);
-            button3.TabIndex = 4;
-            button3.Text = "Dar de baja";
-            button3.UseVisualStyleBackColor = true;
+            label2.AutoSize = true;
+            label2.Location = new Point(38, 396);
+            label2.Name = "label2";
+            label2.Size = new Size(116, 15);
+            label2.TabIndex = 2;
+            label2.Text = "Cantidad de ingreso:";
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(141, 353);
+            textBox1.Location = new Point(160, 320);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(238, 23);
-            textBox1.TabIndex = 5;
+            textBox1.Size = new Size(222, 23);
+            textBox1.TabIndex = 3;
             // 
-            // MantenedorArea
+            // textBox2
+            // 
+            textBox2.Location = new Point(160, 393);
+            textBox2.Name = "textBox2";
+            textBox2.Size = new Size(222, 23);
+            textBox2.TabIndex = 4;
+            // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(160, 356);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(222, 23);
+            textBox3.TabIndex = 5;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(62, 359);
+            label3.Name = "label3";
+            label3.Size = new Size(92, 15);
+            label3.TabIndex = 6;
+            label3.Text = "Tipo de recurso:";
+            // 
+            // MovimientoInventario
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(527, 450);
+            ClientSize = new Size(800, 450);
+            Controls.Add(label3);
+            Controls.Add(textBox3);
+            Controls.Add(textBox2);
             Controls.Add(textBox1);
-            Controls.Add(button3);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(dataGridView1);
-            Name = "MantenedorArea";
-            Text = "MantenedorArea";
+            Name = "MovimientoInventario";
+            Text = "MovimientoInventario";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -110,9 +117,10 @@
 
         private DataGridView dataGridView1;
         private Label label1;
-        private Button button1;
-        private Button button2;
-        private Button button3;
+        private Label label2;
         private TextBox textBox1;
+        private TextBox textBox2;
+        private TextBox textBox3;
+        private Label label3;
     }
 }

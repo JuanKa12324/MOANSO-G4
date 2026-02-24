@@ -100,7 +100,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(30, 468);
+            label5.Location = new Point(28, 468);
             label5.Name = "label5";
             label5.Size = new Size(42, 15);
             label5.TabIndex = 5;
@@ -109,11 +109,11 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(30, 513);
+            label6.Location = new Point(22, 513);
             label6.Name = "label6";
-            label6.Size = new Size(45, 15);
+            label6.Size = new Size(48, 15);
             label6.TabIndex = 6;
-            label6.Text = "Estado:";
+            label6.Text = "Ciudad:";
             // 
             // textBox1
             // 
@@ -146,9 +146,9 @@
             // comboBox1
             // 
             comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(78, 465);
+            comboBox1.Location = new Point(81, 465);
             comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(278, 23);
+            comboBox1.Size = new Size(275, 23);
             comboBox1.TabIndex = 11;
             // 
             // comboBox2
