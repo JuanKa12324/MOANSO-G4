@@ -10,3 +10,9 @@ C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\Capa Entidad\obj\Debug
 C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\Capa Entidad\obj\Debug\Capa Entidad.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\Capa Entidad\obj\Debug\Capa Entidad.dll
 C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\Capa Entidad\obj\Debug\Capa Entidad.pdb
+C:\Users\USUARIO\source\repos\MOANSO-G4\MoansoEF-G4\Capa Entidad\bin\Debug\Capa Entidad.dll
+C:\Users\USUARIO\source\repos\MOANSO-G4\MoansoEF-G4\Capa Entidad\bin\Debug\Capa Entidad.pdb
+C:\Users\USUARIO\source\repos\MOANSO-G4\MoansoEF-G4\Capa Entidad\obj\Debug\Capa Entidad.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\MOANSO-G4\MoansoEF-G4\Capa Entidad\obj\Debug\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\MOANSO-G4\MoansoEF-G4\Capa Entidad\obj\Debug\Capa Entidad.dll
+C:\Users\USUARIO\source\repos\MOANSO-G4\MoansoEF-G4\Capa Entidad\obj\Debug\Capa Entidad.pdb

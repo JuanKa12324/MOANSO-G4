@@ -14,5 +14,10 @@ namespace MoansoEF_G4
         {
             InitializeComponent();
         }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

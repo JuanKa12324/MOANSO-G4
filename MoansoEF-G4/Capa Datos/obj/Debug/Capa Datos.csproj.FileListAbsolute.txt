@@ -16,3 +16,7 @@ C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\Capa Datos\obj\Debug\C
 C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\Capa Datos\obj\Debug\Capa Datos.csproj.Up2Date
 C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\Capa Datos\obj\Debug\Capa Datos.dll
 C:\Users\Administrator\source\repos\MOANSO-G4\MoansoEF-G4\Capa Datos\obj\Debug\Capa Datos.pdb
+C:\Users\USUARIO\source\repos\MOANSO-G4\MoansoEF-G4\Capa Datos\obj\Debug\Capa Datos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\MOANSO-G4\MoansoEF-G4\Capa Datos\obj\Debug\Capa Datos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\MOANSO-G4\MoansoEF-G4\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\USUARIO\source\repos\MOANSO-G4\MoansoEF-G4\Capa Datos\obj\Debug\Capa Datos.pdb

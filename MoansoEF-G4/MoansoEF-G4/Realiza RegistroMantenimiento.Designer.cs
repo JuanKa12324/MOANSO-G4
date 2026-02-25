@@ -46,6 +46,8 @@
             cmbEstado = new ComboBox();
             label5 = new Label();
             label3 = new Label();
+            cmbEquipoID = new ComboBox();
+            label9 = new Label();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -60,7 +62,7 @@
             // cmbMantenimiento
             // 
             cmbMantenimiento.FormattingEnabled = true;
-            cmbMantenimiento.Location = new Point(169, 351);
+            cmbMantenimiento.Location = new Point(169, 345);
             cmbMantenimiento.Name = "cmbMantenimiento";
             cmbMantenimiento.Size = new Size(220, 23);
             cmbMantenimiento.TabIndex = 1;
@@ -68,7 +70,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(44, 354);
+            label1.Location = new Point(44, 348);
             label1.Name = "label1";
             label1.Size = new Size(119, 15);
             label1.TabIndex = 2;
@@ -94,7 +96,7 @@
             // 
             // txtDescripcion
             // 
-            txtDescripcion.Location = new Point(169, 411);
+            txtDescripcion.Location = new Point(173, 437);
             txtDescripcion.Name = "txtDescripcion";
             txtDescripcion.Size = new Size(220, 23);
             txtDescripcion.TabIndex = 6;
@@ -103,7 +105,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(91, 414);
+            label4.Location = new Point(91, 440);
             label4.Name = "label4";
             label4.Size = new Size(72, 15);
             label4.TabIndex = 7;
@@ -112,7 +114,7 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(51, 537);
+            label6.Location = new Point(51, 543);
             label6.Name = "label6";
             label6.Size = new Size(116, 15);
             label6.TabIndex = 10;
@@ -120,7 +122,7 @@
             // 
             // DtpRealizacion
             // 
-            DtpRealizacion.Location = new Point(173, 531);
+            DtpRealizacion.Location = new Point(173, 537);
             DtpRealizacion.Name = "DtpRealizacion";
             DtpRealizacion.Size = new Size(216, 23);
             DtpRealizacion.TabIndex = 11;
@@ -178,7 +180,7 @@
             // cmbEstado
             // 
             cmbEstado.FormattingEnabled = true;
-            cmbEstado.Location = new Point(173, 477);
+            cmbEstado.Location = new Point(173, 488);
             cmbEstado.Name = "cmbEstado";
             cmbEstado.Size = new Size(216, 23);
             cmbEstado.TabIndex = 9;
@@ -186,7 +188,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(125, 480);
+            label5.Location = new Point(125, 488);
             label5.Name = "label5";
             label5.Size = new Size(42, 15);
             label5.TabIndex = 8;
@@ -200,11 +202,30 @@
             label3.Size = new Size(0, 15);
             label3.TabIndex = 5;
             // 
+            // cmbEquipoID
+            // 
+            cmbEquipoID.FormattingEnabled = true;
+            cmbEquipoID.Location = new Point(169, 391);
+            cmbEquipoID.Name = "cmbEquipoID";
+            cmbEquipoID.Size = new Size(220, 23);
+            cmbEquipoID.TabIndex = 18;
+            // 
+            // label9
+            // 
+            label9.AutoSize = true;
+            label9.Location = new Point(102, 394);
+            label9.Name = "label9";
+            label9.Size = new Size(61, 15);
+            label9.TabIndex = 19;
+            label9.Text = "ID Equipo:";
+            // 
             // Realiza_RegistroMantenimiento
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 588);
+            Controls.Add(label9);
+            Controls.Add(cmbEquipoID);
             Controls.Add(listBox);
             Controls.Add(txtCantidad);
             Controls.Add(label8);
@@ -250,5 +271,7 @@
         private ComboBox cmbEstado;
         private Label label5;
         private Label label3;
+        private ComboBox cmbEquipoID;
+        private Label label9;
     }
 }
