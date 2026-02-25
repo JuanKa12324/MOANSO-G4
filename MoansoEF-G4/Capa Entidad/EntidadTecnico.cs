@@ -6,18 +6,15 @@ using System.Threading.Tasks;
 
 namespace Capa_Entidad
 {
-    internal class EntMantenedorTecnico
+    public class EntidadTecnico
     {
-        public int DNIID { get; set; }
-        public int NombreTecnico { get; set; }
-
-        public int CorreoTecnico { get; set; }
-
-        public int TelefonoTecnico { get; set; }
-
-        public int RubroID { get; set; }
-
+        public int TecnicoID { get; set; }
         public int CiudadID { get; set; }
-
+        public int EstadotecnicoID { get; set; }
+        public int NombreTecnico { get; set; }
+        public int RubroID { get; set; }
+        public int DNITecnicno { get; set; }
+        public int CorreoTecnico { get; set; }
+        public int TelefonoTecnico { get; set; }
     }
 }

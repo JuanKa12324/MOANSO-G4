@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Capa_Entidad
 {
-    internal class EntMantenedorRubro
+    public class EntidadTipoEquipos
     {
-        public int RubroID { get; set; }
+        public int TipoEquipoID { get; set; }
+        public string TipoEquipoNom { get; set; }
     }
 }

@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Capa_Entidad
 {
-    internal class EntMovimientoInventario
+    public class EntidadRecurso
     {
         public int RecursoID { get; set; }
-        public int TipoRecursoID { get; set; }
-
-        public int CanditadIngreso { get; set; }
+        public string NombreRecurso { get; set; }
+        public int StockRecurso { get; set; }
     }
 }

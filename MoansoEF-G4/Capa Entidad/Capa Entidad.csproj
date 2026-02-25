@@ -41,13 +41,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EntMantenedorEquipo.cs" />
-    <Compile Include="EntMantenedorRubro.cs" />
-    <Compile Include="EntMantenedorTecnico.cs" />
-    <Compile Include="EntMantenedorTipoEquipos.cs" />
-    <Compile Include="EntMovimientoInventario.cs" />
-    <Compile Include="EntRegistraPlanMantenimiento.cs" />
-    <Compile Include="EntRegistroMantenimiento.cs" />
+    <Compile Include="EntidadDetallerecursomant.cs" />
+    <Compile Include="EntidadDiadisponible.cs" />
+    <Compile Include="EntidadArea.cs" />
+    <Compile Include="EntidadCiudad.cs" />
+    <Compile Include="EntidadEquipo.cs" />
+    <Compile Include="EntidadEstadoequipo.cs" />
+    <Compile Include="EntidadEstadoMantenimiento.cs" />
+    <Compile Include="EntidadEstadoPlanMantenimiento.cs" />
+    <Compile Include="EntidadEstadoTécnico.cs" />
+    <Compile Include="EntidadFrecuencia.cs" />
+    <Compile Include="EntidadPrioridad.cs" />
+    <Compile Include="EntidadRecurso.cs" />
+    <Compile Include="EntidadRubro.cs" />
+    <Compile Include="EntidadTecnico.cs" />
+    <Compile Include="EntidadTipoEquipos.cs" />
+    <Compile Include="EntidadPlanMantenimiento.cs" />
+    <Compile Include="EntidadMantenimiento.cs" />
+    <Compile Include="EntidadTipoMantenimiento.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
